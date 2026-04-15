@@ -1,6 +1,6 @@
 # SimpleCalculatorPractical
 
-Purpose of this is to pass my BSCS Program.
+This was made in the Classroom, The purpose of this is to pass my activity on BSCS Program
 
 # Features
 - Simple Calculations
